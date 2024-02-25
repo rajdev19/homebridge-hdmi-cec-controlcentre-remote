@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "CecRemote",
   "pluginType": "platform",
   "singular": true,
   "schema": {
